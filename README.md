@@ -47,8 +47,12 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+[YOGESH EMPDEX 3.pdf](https://github.com/user-attachments/files/20132788/YOGESH.EMPDEX.3.pdf)
+
+
+
+### Name: kannan R
+### Register Number:212224240072
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
